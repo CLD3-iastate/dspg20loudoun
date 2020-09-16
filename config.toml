@@ -1,4 +1,4 @@
-baseURL = "https://github.com/DSPG-Young-Scholars-Program/dspg20loudon"
+baseURL = "https://dspg-young-scholars-program.github.io/dspg20loudon/"
 languageCode = "en-us"
 title = "Virginia Tech"
 description = "A website for Virginia Tech's 2020 Data Science for the Public Good Program."
