@@ -3,65 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/findings/knitted_demographics_loudon/</loc>
+    <loc>/Loudoun_website/findings/knitted_demographics_loudon/</loc>
   </url>
   
   <url>
-    <loc>/findings/foodaccessmaps/</loc>
+    <loc>/Loudoun_website/findings/foodaccessmaps/</loc>
   </url>
   
   <url>
-    <loc>/findings/results-section-three/</loc>
+    <loc>/Loudoun_website/findings/results-section-three/</loc>
   </url>
   
   <url>
-    <loc>/methods/</loc>
+    <loc>/Loudoun_website/methods/</loc>
   </url>
   
   <url>
-    <loc>/overview/</loc>
+    <loc>/Loudoun_website/overview/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/readme/</loc>
+    <loc>/Loudoun_website/readme/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/team1/</loc>
+    <loc>/Loudoun_website/team1/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/Loudoun_website/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/factor-analysis/</loc>
+    <loc>/Loudoun_website/tags/factor-analysis/</loc>
   </url>
   
   <url>
-    <loc>/findings/</loc>
+    <loc>/Loudoun_website/findings/</loc>
   </url>
   
   <url>
-    <loc>/tags/ggmap/</loc>
+    <loc>/Loudoun_website/tags/ggmap/</loc>
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
+    <loc>/Loudoun_website/tags/r/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/Loudoun_website/tags/</loc>
   </url>
   
   <url>
-    <loc>/tags/tidycensus/</loc>
+    <loc>/Loudoun_website/tags/tidycensus/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/Loudoun_website/</loc>
   </url>
   
 </urlset>

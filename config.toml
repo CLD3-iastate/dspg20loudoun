@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/Loudoun_website/"
 languageCode = "en-us"
 title = "Virginia Tech"
 description = "A website for Virginia Tech's 2020 Data Science for the Public Good Program."
@@ -26,13 +26,8 @@ publishDir = "docs"
 # adjust these as you see fit
 [[menu.main]]
     url = "/"
-    name = "Home"
-    weight = 1
-
-[[menu.main]]
-    url = "/overview/"
     name = "Overview"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
     url = "/methods/"
@@ -62,12 +57,3 @@ publishDir = "docs"
     url = "https://github.com/boya66/dspg2020Loudoun"
     name = "fab fa-github"
     weight = 2
-
-[[menu.icon]]
-    url = "https://twitter.com/UVA_BI"
-    name = "fab fa-twitter"
-    weight = 3
-    
-[[menu.icon]]
-    url = "mailto:boya66@vt.edu"
-    name = "far fa-envelope"
