@@ -28,9 +28,9 @@ The following travel isochrones show areas of Loudoun County and northern Virgin
 
 
 <center>
-![Food Pantries](/food_access/blue.png){width=350px height=300px}![Farmers' Markets](/food_access/red.png){width=350px height=300px}
+![Food Pantries](/dspg20loudon/food_access/blue.png){width=350px height=300px}![Farmers' Markets](/food_access/red.png){width=350px height=300px}
 
-![Food Retailers](/food_access/green.png){width=350px height=300px}
+![Food Retailers](/dspg20loudon/food_access/green.png){width=350px height=300px}
 </center>
 
 Food Pantries (Blue)   -  Farmers' Markets (Red)  -  Food Retailers (Green)
@@ -40,19 +40,19 @@ Food Pantries (Blue)   -  Farmers' Markets (Red)  -  Food Retailers (Green)
 The travel isochrones can be compared to the percent of the population in the census tract without a car. This map is also available in an interactive format at: car ownership map.
 
 <center>
-![](/food_access/transportation.png){width=450px height=400px}
+![](/dspg20loudon/food_access/transportation.png){width=450px height=400px}
 </center>
 
 Many of the areas with low car ownership are also in areas with good access to retailers. Access to farmers’ markets is also good in many areas with low car ownership. One exception is the area around Manassas. Food pantries, in general, appear to be well-targeted to these areas as well.
 The following figures show the food access index variables where the underlying index is constructed using all retailers, farmers’ markets, or food pantries within a 20 mile radius of the population weighted geographic center of the census tract. 
 
 <center>
-![](/food_access/FarmersMarkets20miles.png){style="width:75%; display: block; margin-left: auto; margin-right: auto;"}
+![](/dspg20loudon/food_access/FarmersMarkets20miles.png){style="width:75%; display: block; margin-left: auto; margin-right: auto;"}
 
-![](/food_access/Pantries20miles.png){style="width:75%; display: block; margin-left: auto; margin-right: auto;"}
+![](/dspg20loudon/food_access/Pantries20miles.png){style="width:75%; display: block; margin-left: auto; margin-right: auto;"}
 
 
-![](/food_access/Retailer20miles.png){style="width:75%; display: block; margin-left: auto; margin-right: auto;"}
+![](/dspg20loudon/food_access/Retailer20miles.png){style="width:75%; display: block; margin-left: auto; margin-right: auto;"}
 </center>
 
 
