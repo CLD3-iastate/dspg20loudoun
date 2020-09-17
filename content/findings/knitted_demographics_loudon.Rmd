@@ -33,8 +33,8 @@ library(dplyr)
 library(ggplot2)
 library(tidycensus)
 myACSkey <- "f69e67b9edaba057db9eb6c475030af08cf1adb9"
-map  <- sf::st_read("../../../dspg2020Loudoun/data/VirginiaShapeFiles/tl_2019_51_tract.shp", stringsAsFactors = FALSE)
-dataCDC <- read.csv("../../../dspg2020Loudoun/data/Virginia_CDC_SVI.csv")
+map  <- sf::st_read("../../data/VirginiaShapeFiles/tl_2019_51_tract.shp", stringsAsFactors = FALSE)
+dataCDC <- read.csv("../../data/Virginia_CDC_SVI.csv")
 str(map)
 str(dataCDC)
 nova_counties  <- c("Arlington",
@@ -107,7 +107,7 @@ ggplot(map_and_data) +
   scale_fill_viridis_c() + scale_color_viridis_c() +
   theme(legend.title = element_blank()) 
 ```
-<!-- ![](/knitted_demographics_Loudoun_files/figure-html/plot-1.png){style="width:75%; display: block; margin-left: auto; margin-right: auto;"} -->
+<!-- ![](/dspg20loudon/knitted_demographics_Loudoun_files/figure-html/plot-1.png){style="width:75%; display: block; margin-left: auto; margin-right: auto;"} -->
 
 The SEVI is shown in Figure 1 where lighter colors represent more vulnerable populations. The map shows that across NOVA, and even within Loudoun County, there are important differences in social and economic vulnerability. Socially and economically vulnerable areas are often located close to areas with low vulnerability. However, the SEVI is only one side of the food insecurity story. Food insecurity is also affected by access to food in the local area. Nonetheless, the SEVI provides a means of assessing areas that may need targeted assistance.
 
