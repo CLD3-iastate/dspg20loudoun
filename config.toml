@@ -1,7 +1,7 @@
 baseURL = "https://dspg-young-scholars-program.github.io/dspg20loudon/"
 languageCode = "en-us"
-title = "Virginia Tech"
-description = "A website for Virginia Tech's 2020 Data Science for the Public Good Program."
+title = "DSPG 2020"
+description = "Measuring Regional Food Insecurity and the Role of a Loudon County Food Hub"
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
@@ -38,7 +38,7 @@ publishDir = "docs"
     url = "/findings/"
     name = "Findings"
     weight = 4
-    
+
 [[menu.main]]
     url = "/team1/"
     name = "Team"
@@ -56,4 +56,4 @@ publishDir = "docs"
 [[menu.icon]]
     url = "https://github.com/boya66/dspg2020Loudoun"
     name = "fab fa-github"
-    weight = 2 
+    weight = 2
