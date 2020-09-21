@@ -37,6 +37,10 @@
   </url>
   
   <url>
+    <loc>/dspg20loudon/</loc>
+  </url>
+  
+  <url>
     <loc>/dspg20loudon/tags/factor-analysis/</loc>
   </url>
   
@@ -58,10 +62,6 @@
   
   <url>
     <loc>/dspg20loudon/tags/tidycensus/</loc>
-  </url>
-  
-  <url>
-    <loc>/dspg20loudon/</loc>
   </url>
   
 </urlset>

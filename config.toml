@@ -13,7 +13,7 @@ publishDir = "docs"
 
 [params]
     author = "UVA Biocomplexity Institute"
-    description = "2020 DSPG VT Loudoun County"
+    description = "Measuring Regional Food Insecurity and the Role of a Loudon County Food Hub"
     logo = "favicon/uva-dspg-logo.jpg"
     githubUsername = "boya66"
     accent = "#232D4B" # dark colors do best
